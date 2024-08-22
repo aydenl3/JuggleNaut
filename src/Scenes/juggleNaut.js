@@ -37,7 +37,7 @@ class juggleNaut extends Phaser.Scene {
 
     create ()
     {
-        //yo
+        //yo yo ma
         //WORLD SETTINGS
         this.physics.world.setBoundsCollision(true, true, true, false);
         this.physics.world.gravity.y = 1100;
